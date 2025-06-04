@@ -11,7 +11,7 @@ Since your **museum collection is a collection of collections**, you’ll want o
 
 * **Artifacts** (photos, scans, descriptions of physical items)
 * **Archival Photos**
-* **Genealogy Records**
+* **Local Genealogy Records**
 * **Historic Documents**
 * **Oral Histories** (optional, if you have audio/video)
 * **Recordings
