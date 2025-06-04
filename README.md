@@ -7,3 +7,5 @@ They organized by areas of work:
 - Scanning
 - QR Code Development
 - Internet Archive collections
+- Steamboat Research
+  
