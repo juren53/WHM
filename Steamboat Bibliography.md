@@ -1,6 +1,6 @@
-[cite_start]Selected Bibliography from 'Wild River, Wooden Boats' [cite: 45]
+Selected Bibliography from 'Wild River, Wooden Boats'
 
-[cite_start]The following articles, books, private journals, government documents, dissertations, and newspapers were consulted and used in the preparation of this book[cite: 45].
+The following articles, books, private journals, government documents, dissertations, and newspapers were consulted and used in the preparation of this book.
 
 * Audubon, Maria R., ed. *Audubon and His Journals*. 2 vols. [cite_start]New York: Scribner's Sons, 1897[cite: 46].
 * Blossom, Henry Martyn. *Journal, 1851-1853*. Missouri Historical Society Collections. [cite_start]St. Louis[cite: 47].
