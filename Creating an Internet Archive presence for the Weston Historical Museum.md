@@ -1,7 +1,9 @@
 ## Creating an Internet Archive presence for the Weston Historical Museum
 
 
-The museum's holdings can be viewed as **a collection of collections**, and require some up-front planning to create an **Internet Archive (IA) presence**.  This approach helps ensure the Museum's **IA presence** is well-structured, searchable, and scalable. Here's an approach to consider:  
+The museum's holdings can be viewed as **a collection of collections**, and require some up-front planning to create an **Internet Archive (IA) presence**.  This approach helps ensure the Museum's **IA presence** is well-structured, searchable, and scalable. 
+
+Here's an approach to consider:  
 
 ---
 
