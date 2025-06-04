@@ -1,11 +1,6 @@
 **A Glossary of Steamboat Terminology**
 
-Here's the revised glossary with all `[cite_start]` and `[cite: xxx]` references removed:
-
----
-
-**A Glossary of Steamboat Terminology**
-
+ 
 * **balance rudder**—A rudder that extended both fore and aft of the rudder post. The balance rudder made steering easier and provided better response due to increased surface area of the rudder.
 * **banking freight**—The act of taking off freight from a boat and placing it temporarily onshore in order to lessen the draft of the boat. Banking freight was necessary in some instances to set free a grounded boat.
 * **bar**—A naturally occurring shallow area in or adjacent to the channel; composed of sand or sometimes gravel. In very low water, bars are exposed above the surface.
