@@ -2,7 +2,7 @@
 
 Ths repository is a collection of JAU's work files related to the **Weston Historical Museum**
 
-They organized by areas of work:
+They are organized by areas of work:
 
 - Scanning
 - QR Code Development
