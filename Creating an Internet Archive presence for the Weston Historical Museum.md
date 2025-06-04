@@ -41,9 +41,9 @@ Each of these sub-collections will have:
 
 ---
 
-## 📋 Step 2: Prepare a Proposal for Internet Archive Staff
+## 📋 Step 2: Prepare a Proposal for Internet Archive Staff 
 
-When you're ready to contact them, send a **structured proposal**. Here's what to include:
+When we're ready, we can send the **Internet Archive** a **structured proposal** to set up the Museum's collections. Here's what to include:
 
 ### 📧 Example Proposal Outline:
 
@@ -94,7 +94,7 @@ This helps you stay consistent across uploads and makes bulk processing easier i
 
 ## ✅ Step 4: After Approval
 
-Once Archive staff creates your collections, you’ll:
+Once IA staff creates our collections, you’ll:
 
 * Upload individual items
 * Assign them to the appropriate **sub-collection**
