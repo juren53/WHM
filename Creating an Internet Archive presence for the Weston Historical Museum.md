@@ -1,7 +1,7 @@
-Creating an Internet Archive presence for the Weston Historical Museum
+## Creating an Internet Archive presence for the Weston Historical Museum
 
 
-The museum's holdings are **a collection of collections**, and require some up-front planning.  This helps ensure your **Internet Archive presence** is well-structured, searchable, and scalable. Here's a  roadmap to follow before contacting the Internet Archive or upload anything:
+The museum's holdings are **a collection of collections**, and require some up-front planning.  This helps ensure the Museum's **Internet Archive presence** is well-structured, searchable, and scalable. Here's an approach to consider:  
 
 ---
 
@@ -103,5 +103,5 @@ Once Archive staff creates your collections, you’ll:
 
 ---
 
-Would you like help creating metadata templates for each sub-collection? Or a sample spreadsheet to get started?
+Possible next step: begin designing metadata templates for each sub-collection.  Possibly use spreadsheet as a design tool.
 
