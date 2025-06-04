@@ -1,11 +1,11 @@
 ## Creating an Internet Archive presence for the Weston Historical Museum
 
 
-The museum's holdings are **a collection of collections**, and require some up-front planning.  This helps ensure the Museum's **Internet Archive presence** is well-structured, searchable, and scalable. Here's an approach to consider:  
+The museum's holdings can be viewed as **a collection of collections**, and require some up-front planning to create a  **Internet Archive (IA) presence**.  This approach helps ensure the Museum's **IA presence** is well-structured, searchable, and scalable. Here's an approach to consider:  
 
 ---
 
-## 🗂️ Step 1: Define Top-Level Collection Structure
+## 🗂️ Step 1: Define a Top-Level Collection Structure
 
 Since your **museum collection is a collection of collections**, you’ll want one **primary collection** (e.g., "Eastville Historical Museum") that contains **sub-collections** such as:
 
