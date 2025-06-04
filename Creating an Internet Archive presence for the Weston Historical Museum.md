@@ -9,11 +9,11 @@ The museum's holdings are **a collection of collections**, and require some up-f
 
 Since your **museum collection is a collection of collections**, you’ll want one **primary collection** (e.g., "Eastville Historical Museum") that contains **sub-collections** such as:
 
-* **Artifacts** (photos, scans, descriptions of physical items)
-* **Archival Photos**
+* **Museum Artifacts** (photos, scans, descriptions of physical items)
+* **Photo Archive**
 * **Local Genealogy Records**
-* **Historic Documents**
-* **Oral Histories** (optional, if you have audio/video)
+* **Historic Documents** (maps, blueprints, gov't records, deeds, etc.)
+* **Oral Histories**
 * **Recordings
 * **Videos
 
