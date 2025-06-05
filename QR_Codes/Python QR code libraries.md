@@ -1,8 +1,8 @@
-There are several excellent Python QR code libraries that are well-maintained and feature-rich. 
+### There are a number of Python QR code libraries that are maintained and feature-rich. 
 
 Here are few:
 
-### Python QR Code Libraries
+#### Python QR Code Libraries
 
 1. **qrcode**
    - The most popular and well-maintained Python QR code library
@@ -60,4 +60,4 @@ def create_museum_qr(url, exhibit_id, save_path):
 create_museum_qr("https://museum.org/exhibits/dinosaur-fossils", "dino01", "./qr_codes")
 ```
 
-Would you like me to go into more detail on any of these libraries or show more advanced examples?
+This is just a few to consider. There amore with more advanced examples?
