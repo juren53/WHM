@@ -1,3 +1,5 @@
+### IA Statistics & Traffic 
+
 To check the traffic to an Internet Archive item, visit the item's details page where you can find view statistics displayed on the right side. These numbers represent the total views and are updated daily. 
 
 **Understanding Views on Internet Archive**
