@@ -1,13 +1,15 @@
 ## Scanning Process
 
+This document describes the scanning process a Weston Historical Museum
 
-- organize 
+
+- Organize 
 
 - Scan 
 
     - choose scanner based on size and 
 
-- post processing
+- Post processing
 
     - assign numbers
     - orient image
