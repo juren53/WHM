@@ -1,6 +1,6 @@
 ## Scanning Process
 
-This document describes the scanning process at the Weston Historical Museum (WHM)
+This document describes the scanning process at the Weston Historical Museum  (WHM)
 
 
 - Organize work space
