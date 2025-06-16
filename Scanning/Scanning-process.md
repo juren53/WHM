@@ -1,13 +1,16 @@
 ## Scanning Process
 
-This document describes the scanning process at the Weston Historical Museum  (WHM)
+This document describes the scanning process under development at the Weston Historical Museum  (WHM)
 
 
 - Organize work space
 
-- Scan 
+    - lighting
+    - 
 
-    - choose scanner based on size and quality of
+- Scan - generate raw scans
+
+    - choose scanner based on size and quality of target
 
 - Post processing
 
@@ -16,3 +19,6 @@ This document describes the scanning process at the Weston Historical Museum  (W
     - crop 
     - enhance
     - add metadata
+    - identify re-scans
+
+- Transfer processed
