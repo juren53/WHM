@@ -12,6 +12,9 @@ This document describes the scanning process under development at the Weston His
 - Scan - generate raw scans
 
     - choose scanner based on size and quality of target
+          - cam scanner
+          - flat bed
+          - large scale
 
 - Post processing
 
