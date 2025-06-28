@@ -6,7 +6,8 @@ This document describes the scanning process under development at the Weston His
 - Organize work space
 
     - lighting
-    - 
+    - touch pen
+    - cover glass
 
 - Scan - generate raw scans
 
