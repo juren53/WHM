@@ -1,4 +1,4 @@
-## Scanning Process
+## WHM Scanning Process
 
 This document describes the scanning process under development at the Weston Historical Museum  (WHM)
 
