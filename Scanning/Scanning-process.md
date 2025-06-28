@@ -25,4 +25,4 @@ This document describes the scanning process under development at the Weston His
     - add metadata
     - identify re-scans
 
-- Transfer processed
+- Transfer processed images 
